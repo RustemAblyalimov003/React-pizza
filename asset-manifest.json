@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-pizza/static/css/main.0d655a5e.css",
+    "main.js": "/React-pizza/static/js/main.b3c8baff.js",
+    "static/js/488.7a876c9d.chunk.js": "/React-pizza/static/js/488.7a876c9d.chunk.js",
+    "index.html": "/React-pizza/index.html",
+    "main.0d655a5e.css.map": "/React-pizza/static/css/main.0d655a5e.css.map",
+    "main.b3c8baff.js.map": "/React-pizza/static/js/main.b3c8baff.js.map",
+    "488.7a876c9d.chunk.js.map": "/React-pizza/static/js/488.7a876c9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d655a5e.css",
+    "static/js/main.b3c8baff.js"
+  ]
+}
